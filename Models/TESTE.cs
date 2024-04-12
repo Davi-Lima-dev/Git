@@ -9,4 +9,8 @@ namespace Git.Models
     {
        
     }
+	 public class TESTE2
+    {
+       
+    }
 }
