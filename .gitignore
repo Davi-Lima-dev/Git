@@ -1,0 +1,9 @@
+# Ignorar a pasta obj e seu conteúdo
+obj/
+
+# Ignorar a pasta Properties e seu conteúdo
+Properties/
+
+# Ignorar os arquivos appsettings.json e appsettings.Development.json
+appsettings.json
+appsettings.Development.json
